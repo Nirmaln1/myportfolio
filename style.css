@@ -1,0 +1,136 @@
+.navbar-brand{
+    height:auto !important;
+}
+
+.navbar-nav li a{
+    margin:0 20px !important;
+}
+.navbar a{
+    font-weight:700px;
+}
+.fa-instagram{
+    background:linear-gradient(#f9ce34, #ee2a7b and #6228d7);
+}
+/* .nav-link{
+    /* color: rgb(36, 69, 200) !important; */
+.nav-item:hover{
+    background-color: black;
+    transition:3s!important;
+}
+.hello{
+    padding-top: 200px;
+    padding-left: 30px;
+}
+.hello,.nirm,.nepal{
+    padding-left:100px;
+}
+@media (max-width:800px) {
+    .dody{
+        height:750px !important;
+    }
+    .hello{
+        padding-left: 0%;
+        padding-top:300px !important;
+    }
+    .nirm{
+        padding-left: 0%;
+    }
+    .nepal{
+        padding-left: 0%;
+    }
+    .img-fluid{
+        height:500px;
+        width:600px;
+        padding-top:150px;
+        padding-right:25px;
+    }
+}
+.abtme{
+    height:300px !important;
+    text-decoration:underline;
+}
+
+@media(min-width:770px) and (max-width:991px){
+    .abtme{
+        height:200px !important;
+    }
+    .rowi1{
+         display:block !important;
+         align-items: center;
+    }
+    .img-2a{
+        padding-left:20px !important;
+    }
+    .nirmalthapa{
+        width: 100% !important;
+        height: fit-content;
+        font-size: medium;
+        background-color: bisque;
+        font-weight:bold;
+        font-size:20px; 
+        padding:20px !important;}
+}
+@media(max-width:770px){
+    .abtme{
+        height:200px !important;
+    }
+    .rowi1{
+        display: block !important;
+        align-items: center;
+    }
+
+    .nirmalthapa{
+        width: 100% !important;
+        height: fit-content;
+        font-size: medium;
+        background-color: bisque;
+        font-weight:bold;
+        font-size:20px; 
+        padding:5px !important;}
+}
+.niredu{
+    font-style: italic;
+}
+@media(max-width:1024px){
+    .nischool{
+        width:60% !important;
+    }
+}
+.nircollege{
+    font-style: italic;
+}
+.nischool{
+    border:8px solid !important;
+    /* border-radius: 20% !important; */
+    border-image:linear-gradient(red,blue,pink,yellow,pink) !important;
+    border-image-slice:1 !important;
+
+  
+}
+/* .sk11 {
+    /* margin-left: 50px !important; */
+/* } */
+.iconsfo{
+    font-size:50px !important;
+}
+.html{
+     border-radius: 50% !important;
+}
+.sk1{
+    height:100px;;
+    width:200px !important;
+    margin:0 3px !important;
+}
+@media(max-width:600px){
+    .row1{
+        display: grid !important;
+        grid-template-columns:200px 200px  !important;
+        row-gap:  10px !important;
+        gap: 10px!important;
+        justify-content: center !important;
+    }
+}
+.contactme1{
+    display:grid !important;
+    row-gap:30px !important;
+}
